@@ -39,6 +39,7 @@ The main function in the script is generate_graphs_and_csv(). This function does
 - [Python](https://www.python.org/)
 - [pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
+- [tkinter](https://docs.python.org/3/library/tkinter.html#module-tkinter)
 
 ## Authors
 - Hanif Al Irsyad
