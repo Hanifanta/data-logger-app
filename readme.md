@@ -18,8 +18,11 @@ pip install pandas matplotlib
 Running the Code
 To run the code, navigate to the directory containing the script and run the following command:
 ```bash
-python data_logger.py (For CLI)
-python data_logger_gui.py (For GUI)
+# For CLI
+python data_logger.py
+
+# For GUI
+python data_logger_gui.py
 ```
 
 ## Code Overview
